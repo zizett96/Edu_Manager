@@ -1,5 +1,5 @@
 # Edu_Manager
-     학사 관리 프로그램(.NET &amp; MSSQL)
+     학사 관리 프로그램(.NET & MSSQL)
 - 구현된 기능
 <!---->
 1. 로그인
